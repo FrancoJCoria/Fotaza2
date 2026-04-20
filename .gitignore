@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Configuración y Secretos (PostgreSQL/APIs)
+.env
+
+# Logs
+npm-debug.log*
+*.log
+
+# Sistema
+.DS_Store
+dist/
+build/
+
+# Si usas herramientas de cobertura de tests
+coverage/
